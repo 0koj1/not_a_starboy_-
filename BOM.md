@@ -19,7 +19,7 @@
 | [OLED DISPLAY](https://www.aliexpress.com/item/1005009170035050.html?spm=a2g0o.cart.0.0.598e38da0Oa5bZ&mp=1&pdp_npi=6%40dis%21CAD%21CAD%203.58%21CAD%201.73%21%21CAD%201.73%21%21%21%402101c4b817917741779296312e107f%2112000048183387215%21ct%21CA%218285636029%21%211%210%21) | To Display Sprite | 1 | $1.19 | $1.19 | [ALIEXPRESS](https://www.aliexpress.com/item/1005009170035050.html?spm=a2g0o.cart.0.0.598e38da0Oa5bZ&mp=1&pdp_npi=6%40dis%21CAD%21CAD%203.58%21CAD%201.73%21%21CAD%201.73%21%21%21%402101c4b817917741779296312e107f%2112000048183387215%21ct%21CA%218285636029%21%211%210%21) |
 | [MPU6050](https://www.aliexpress.com/item/1005013135493417.html?spm=a2g0o.cart.0.0.598e38da0Oa5bZ&mp=1&pdp_npi=6%40dis%21CAD%21CAD%2019.76%21CAD%209.68%21%21CAD%209.68%21%21%21%402101c4b817917741779296312e107f%2112000060331077190%21ct%21CA%218285636029%21%211%210%21) | Gyroscope Sensor | 1 | $2.75 | $2.75 | [ALIEXPRESS](https://www.aliexpress.com/item/1005013135493417.html?spm=a2g0o.cart.0.0.598e38da0Oa5bZ&mp=1&pdp_npi=6%40dis%21CAD%21CAD%2019.76%21CAD%209.68%21%21CAD%209.68%21%21%21%402101c4b817917741779296312e107f%2112000060331077190%21ct%21CA%218285636029%21%211%210%21) |
 | **Parts subtotal** | — | — | — | **$19.43** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$19.43** | — |
+| **Tax & shipping** | — | — | — | **$4.03** | — |
+| **Total** | — | — | — | **$23.46** | — |
 
-$10.57 left of the tier's funding.
+$6.54 left of the tier's funding.
